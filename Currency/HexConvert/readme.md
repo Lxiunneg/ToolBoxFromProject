@@ -1,3 +1,6 @@
+# SimpleWinSocket
+对Windows平台Socket套接字的二次封装
+
 ## 使用说明
 可以将收到的十六进制的数据生成为C/C++使用的数组的形式
 
